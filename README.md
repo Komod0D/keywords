@@ -18,4 +18,4 @@ The bulk of the code is provided in knn.ipynb. It is in a notebook format to fac
 Classification is done using KNN in our case. The READMEs of the repositories are vectorised using TF-IDF, then SVD is used for dimensionality reduction. The manual inspection part is quite important, as otherwise not much real "information" is gained from new classifications (the decision boundary doesn't move much).
 
 ## Note:
-The knn.ipynb file is not meant to be run from start to finish at once. It contains some example code and helper code that should not run every time.
+The knn.ipynb file is not meant to be run from start to finish all at once. It contains some example code and helper code that should not run every time.
